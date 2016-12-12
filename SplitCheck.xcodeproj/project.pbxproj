@@ -302,6 +302,7 @@
 				42B7150F1DF84E0B00A0A785 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
